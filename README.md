@@ -1,6 +1,5 @@
 # B3313 Dev Tools - Other Stuff
 This repo contains mostly old, and some new-ish things that have been created for B3313 development purposes:
-* Old B3313 tools:
 * B3313 2.0 tools:
   * BetaOptimizer: It merges adjacent `gsSP1Triangle` calls into `gsSP2Triangles`, and applies some sort of debloat to animations.
   * F3DVertexMerger: basically an attempt at what [BeeieOptimizer](https://github.com/Chlorobite/B3313tools-BeeieOptimizer) does, but working with the C files instead.
@@ -14,3 +13,5 @@ This repo contains mostly old, and some new-ish things that have been created fo
 
 ## Licensing
 All of the software is released under the BSD-3-Clause license. See LICENSE.md for more details.
+
+Super Mario 64 hacks are not affiliated with or endorsed by Nintendo. A legal copy of Super Mario 64 is required in order to use this repository.
