@@ -9,8 +9,6 @@ This repo contains mostly old, and some new-ish things that have been created fo
 * HexUtils: a tool/playground, mostly related to `ABCD0: 12 34 56 78 ...` style SM64 Rom Manager tweaks, but also has B3313 2.0 & Troll Engine adjacent functions.
 * RamEnmptyDetector: detects unused RAM regions of substantial length from a Project64 dump.
 
-[Join the B33h1v3 Discord](https://discord.gg/n8PsDgVkBr) for discussion!
-
 ## Licensing
 All of the software is released under the BSD-3-Clause license. See LICENSE.md for more details.
 
